@@ -90,7 +90,6 @@ Pastikan koneksi internet lo lancar.
 Pastikan Python dan Tkinter lo compatible.
 
 ## Kontribusi:
-Lo bisa kontribusi kalo mau, tinggal pull request aja. Jangan lupa jelasin perubahan lo ya!
+infokan kontribusi
 
-## Lisensi:
-Aplikasi ini dilisensikan di bawah MIT License. (Lihat file LICENSE)
+

@@ -22,7 +22,7 @@ Sebelum jalanin aplikasi ini, lo harus install beberapa dependencies:
 
 ### 1. Clone Repo:
 Lo bisa clone repo ini pake:
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/username/repository-name.git](https://github.com/aoisaki01/Converter-Gambar.git
 
 ### 2. Install Dependensi:
 Install semua dependensi pake:
